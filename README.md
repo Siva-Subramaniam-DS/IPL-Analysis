@@ -26,7 +26,7 @@
 ![Slide11](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/889d353e-39db-4319-a704-9c4717ccf167)
 ![Slide12](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/e19bb306-04f9-4d49-b76f-5f0f3d78ceb4)
 ![Slide13](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/ae3260df-3095-4b3b-962c-d2e236ed144d)
-![Slide14](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/13482319-4afd-499b-a46c-df0552f9363d)
+![Slide14](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/60c16948-56f3-4e80-8652-6e75d98d6e4e)
 ![Slide15](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/372c2628-c6e2-421e-ae39-35bebb086a92)
 ![Slide16](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/2f9517f8-0893-42c6-8ed9-1b9d892f50c0)
 ![Slide17](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/604db50b-9997-4b2b-8805-d96f69996d49)
