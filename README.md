@@ -6,8 +6,7 @@
 5. [Top N Bowling Performance (Wickets per Match)](#top-n-bowling-performance-wickets-per-match)
 6. [Dashboard for Each Team](#dashboard-for-each-team)
    - [Total Win Percentage](#total-win-percentage)
-   - [Win Percentage at Home](#win-percentage-at-home)
-   - [Win Percentage Away](#win-percentage-away)
+   - [Win Percentage at Home and Away](#win-percentage-at-home-and-away)
    - [Top 5 Batsmen and Bowlers](#top-5-batsmen-and-bowlers)
    - [Number of Trophies Won](#number-of-trophies-won)
    - [Number of Orange and Purple Caps Won](#number-of-orange-and-purple-caps-won)
@@ -31,14 +30,19 @@
 ![Slide5](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/d44d8fde-612b-40a5-815f-21d1a879bcf2)
 ## `Top N Bowling Performance (Wickets per Match)`
 ![Slide6](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/fa68a0c8-d3f6-46ad-9430-4f364ac83307)
-
+## Dashboard for Each Team
+## `Total Win Percentage`
 ![Slide7](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/0da16790-6786-4371-9014-75379df274ed)
+## `Win Percentage at Home and Away`
 ![Slide8](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/34ce88a6-9937-40e9-b151-fa7f81b2b942)
 ![Slide9](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/a1984f2b-557c-42b9-aa72-e9b0b578acb8)
+## `Top 5 Batsmen and Bowlers`
 ![Slide10](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/de98cce3-f65f-468c-8eef-ec3eb2574183)
 ![Slide11](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/889d353e-39db-4319-a704-9c4717ccf167)
+## `Number of Orange and Purple Caps Won`
 ![Slide12](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/e19bb306-04f9-4d49-b76f-5f0f3d78ceb4)
 ![Slide13](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/ae3260df-3095-4b3b-962c-d2e236ed144d)
+## `Number of Trophies Won`
 ![Slide14](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/60c16948-56f3-4e80-8652-6e75d98d6e4e)
 ![Slide15](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/372c2628-c6e2-421e-ae39-35bebb086a92)
 ![Slide16](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/2f9517f8-0893-42c6-8ed9-1b9d892f50c0)
