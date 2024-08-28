@@ -12,16 +12,26 @@
    - [Number of Trophies Won](#number-of-trophies-won)
    - [Number of Orange and Purple Caps Won](#number-of-orange-and-purple-caps-won)
 7. [Dashboard for Winners and Runners-Up of All Seasons](#dashboard-for-winners-and-runners-up-of-all-seasons)
-8. [Visualizations](#visualizations)
+8. [Explanation and Slides](#ExplanationandSlides)
+
+
 # IPL - Dashboard Analysis
 
-## `Visualizations:`
+## `Explanation and Slides:`
+
+## `Top N Run Scorers`
 ![Slide1](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/a0196785-6466-456a-9981-4433a8b36997)
+## `Top N Wicket Takers`
 ![Slide2](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/a615e5c3-75f3-4c17-bd71-4a7151bcd764)
+## `Top N Strike Rates`
 ![Slide3](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/79bdabf3-f0db-43c3-a7cd-0e224b76943c)
+## `Top N Strike Rates`
 ![Slide4](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/1ba77507-edc6-4330-84bc-968e8522fd2e)
+## `Top N Economic Bowlers`
 ![Slide5](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/d44d8fde-612b-40a5-815f-21d1a879bcf2)
+## `Top N Bowling Performance (Wickets per Match)`
 ![Slide6](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/fa68a0c8-d3f6-46ad-9430-4f364ac83307)
+
 ![Slide7](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/0da16790-6786-4371-9014-75379df274ed)
 ![Slide8](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/34ce88a6-9937-40e9-b151-fa7f81b2b942)
 ![Slide9](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/a1984f2b-557c-42b9-aa72-e9b0b578acb8)
