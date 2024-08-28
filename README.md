@@ -14,7 +14,7 @@
 8. [Explanation and Slides](#ExplanationandSlides)
 
 
-# IPL - Dashboard Analysis
+# IPL - Dashboard Analysis  🏏
 
 ## `Explanation and Slides:`
 
@@ -43,6 +43,7 @@
 ![Slide12](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/e19bb306-04f9-4d49-b76f-5f0f3d78ceb4)
 ## `Number of Trophies Won`
 ![Slide13](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/ae3260df-3095-4b3b-962c-d2e236ed144d)
+## `Dashboard for Winners and Runners-Up of All Seasons`
 ![Slide14](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/60c16948-56f3-4e80-8652-6e75d98d6e4e)
 ![Slide15](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/372c2628-c6e2-421e-ae39-35bebb086a92)
 ![Slide16](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/2f9517f8-0893-42c6-8ed9-1b9d892f50c0)
