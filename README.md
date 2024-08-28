@@ -11,7 +11,7 @@
    - [Number of Trophies Won](#number-of-trophies-won)
    - [Number of Orange and Purple Caps Won](#number-of-orange-and-purple-caps-won)
 7. [Dashboard for Winners and Runners-Up of All Seasons](#dashboard-for-winners-and-runners-up-of-all-seasons)
-8. [Explanation and Slides](#ExplanationandSlides)
+8. [Explanation and Slides](#Explanation-and-Slides)
 
 
 # IPL - Dashboard Analysis  🏏
