@@ -1,18 +1,21 @@
-## IPL-Analysis
-1.	Top N Run Scorers
-2.	Top N Wicket Takers
-3.	Top N Strike rates
-4.	Top N economic bowlers
-5.	Top N bowling performance (in terms of no of wickets per match)
-6.	Dashboard for each team in the
-       a.	Total win percentage 
-       b.	Win percentage at Home
-       c.	Win percentage at Away
-       d.	Top 5 batsmen and bowler
-       e.	Number of trophy won
-       f.	No of Orange and Purple caps won
-7.	Dashboard for winners and runners up of all season 
+# Table of Contents 📍
+1. [Top N Run Scorers](#top-n-run-scorers)
+2. [Top N Wicket Takers](#top-n-wicket-takers)
+3. [Top N Strike Rates](#top-n-strike-rates)
+4. [Top N Economic Bowlers](#top-n-economic-bowlers)
+5. [Top N Bowling Performance (Wickets per Match)](#top-n-bowling-performance-wickets-per-match)
+6. [Dashboard for Each Team](#dashboard-for-each-team)
+   - [Total Win Percentage](#total-win-percentage)
+   - [Win Percentage at Home](#win-percentage-at-home)
+   - [Win Percentage Away](#win-percentage-away)
+   - [Top 5 Batsmen and Bowlers](#top-5-batsmen-and-bowlers)
+   - [Number of Trophies Won](#number-of-trophies-won)
+   - [Number of Orange and Purple Caps Won](#number-of-orange-and-purple-caps-won)
+7. [Dashboard for Winners and Runners-Up of All Seasons](#dashboard-for-winners-and-runners-up-of-all-seasons)
+8. [Visualizations](#visualizations)
+# IPL - Dashboard Analysis
 
+## `Visualizations:`
 ![Slide1](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/a0196785-6466-456a-9981-4433a8b36997)
 ![Slide2](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/a615e5c3-75f3-4c17-bd71-4a7151bcd764)
 ![Slide3](https://github.com/Siva-Subramaniam-DS/IPL-Analysis/assets/138869164/79bdabf3-f0db-43c3-a7cd-0e224b76943c)
